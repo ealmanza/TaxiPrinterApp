@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaxiPrinter</string>
+    <string name="direcci_n_origen">DIRECCIÓN ORIGEN</string>
+    <string name="destino">DESTINO</string>
+    <string name="placa">PLACA</string>
+    <string name="tarifa">TARIFA</string>
+    <string name="precio_estimado">PRECIO ESTIMADO</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="consultar">Consultar</string>
+    <string name="nuevo">Nuevo</string>
+</resources>
